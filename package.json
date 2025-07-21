@@ -1,0 +1,41 @@
+{
+  "name": "pros-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "apexcharts": "^3.40.0",
+    "pinia": "^2.1.3",
+    "raw-loader": "^4.0.2",
+    "roboto-fontface": "*",
+    "underscore": "^1.13.6",
+    "vue": "^3.3.0",
+    "vue-apexcharts": "^1.6.2",
+    "vue-router": "^4.0.3",
+    "vue3-apexcharts": "^1.4.1",
+    "vuetify": "^3.0.0-beta.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-loader": "^9.1.2",
+    "sass": "^1.32.7",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-pinia": "~0.2.3",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "vue-loader": "^17.1.0",
+    "vuetify-loader": "^1.7.0",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2",
+    "webpack-dev-server": "^4.13.3",
+    "webpack-plugin-vuetify": "^2.0.0-alpha.0"
+  }
+}
